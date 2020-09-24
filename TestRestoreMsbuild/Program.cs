@@ -7,6 +7,8 @@ namespace TestRestoreMsbuild
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            //comment
+            Console.WriteLine("Test");
         }
     }
 }
